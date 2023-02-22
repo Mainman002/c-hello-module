@@ -1,0 +1,1 @@
+This folder is where the compiled EXE / Appimage compiles to
